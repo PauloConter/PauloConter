@@ -19,7 +19,7 @@
   <img align="center" alt="Csharp" height="60" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
                                  
-  <img align="right" alt="Avatar" height="170" width="330" src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-29.gif">     
+  <img align="right" alt="Avatar" height="170" width="300" src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-29.gif">     
 </div>
  
 ##
