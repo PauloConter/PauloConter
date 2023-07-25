@@ -1,7 +1,7 @@
 
 ### Olá! Meu nome é Paulo Conter 👋
 
-- 💻 Gosto muito de Back-End
+
 - 🧬 Cursando Formação .NET & Graduando em Tecnologia de Sistemas Para Internet 
 - 💬 Contate-me no email: conterdev@gmail.com
 
