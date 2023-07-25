@@ -11,12 +11,12 @@
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning everything.
+:books: I’m currently learning C# .NET.
 
 :outbox_tray: 2023 Goals: create a new project and find a new job.
 
 
-[![hellenmas GitHub stats](https://github-readme-stats.vercel.app/api?username=hellenmas)](https://github.com/hellenmas/github-readme-stats)
+[![PauloConter GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloConter)](https://github.com/PauloConter/github-readme-stats)
 
 
  
