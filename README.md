@@ -4,7 +4,7 @@
 - 💻 Gosto muito de Back-End
 - 🧬 Cursando Formação .NET & Graduando em Tecnologia de Sistemas Para Internet 
 - 💬 Contate-me no email: conterdev@gmail.com
-- 😸 Pronouns: ele/dele
+
 
 <div align="center">
   <a href="https://github.com/PauloConter">
