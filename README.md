@@ -14,7 +14,6 @@
 
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="SQL" height="60" width="45" src="https://avatars.githubusercontent.com/u/2452804?s=200&v=4">
   <img align="center" alt=".NET" height="60" width="45" src="https://avatars.githubusercontent.com/u/9141961?s=48&v=4">
   <img align="center" alt="Csharp" height="60" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="SQLServer" height="60" width="45" src="https://avatars.githubusercontent.com/u/34626?s=48&v=4">
