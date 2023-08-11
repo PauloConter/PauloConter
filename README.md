@@ -12,6 +12,11 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloConter&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 
+<div align = "left">
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaannAugusto&show_icons=true&theme=bear&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=YaannAugusto&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+</div>
+
   
 <div style="display: inline_block"><br>
   <img align="center" alt=".NET" height="60" width="45" src="https://avatars.githubusercontent.com/u/9141961?s=48&v=4">
