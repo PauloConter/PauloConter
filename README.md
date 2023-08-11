@@ -6,15 +6,11 @@
 - 💬 Contate-me no email: conterdev@gmail.com
 
 
-<div align="center">
-  <a href="https://github.com/PauloConter">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=PauloConter&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloConter&layout=compact&langs_count=7&theme=onedark"/>
-</div>
 
 <div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaannAugusto&show_icons=true&theme=bear&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=YaannAugusto&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+<a href="https://github.com/PauloConter">  
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloConter&show_icons=true&theme=bear&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=PauloConter&show_icons=true&show_icons=true&theme=bear&count_private=true" />
 </div>
 
   
