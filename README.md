@@ -2,7 +2,7 @@
 ### Olá! Meu nome é Paulo Conter 👋
 
 
-- 🧬 Cursando Formação .NET & Graduando em Tecnologia de Sistemas Para Internet 
+- 🧬 Formação .NET & Graduando em Tecnologia de Sistemas Para Internet 
 - 💬 Contate-me no email: conterdev@gmail.com
 - CV - https://pauloconter.github.io/Curriculo/
 
