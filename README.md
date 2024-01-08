@@ -2,7 +2,6 @@
 
 - 🧬 Formação .NET & Graduando em Tecnologia de Sistemas Para Internet 
 - 💬 Contate-me no email: conterdev@gmail.com
-- CV - https://pauloconter.github.io/Curriculo/
 - LinkedIn - https://www.linkedin.com/in/paulo-conter/
   
 
